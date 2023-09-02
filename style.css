@@ -25,3 +25,18 @@
 .tableBG2 {
   background-color: #edf5ff;
 }
+@media screen and (max-width: 500px) {
+  .title {
+    font-size: 1.5rem;
+  }
+  .logo {
+    width: 100%;
+  }
+  .navbar-brand {
+    padding: 0px;
+  }
+
+  .footerimg {
+    width: 70%;
+  }
+}
