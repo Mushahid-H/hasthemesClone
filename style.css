@@ -1,3 +1,27 @@
 .priceRow {
   background-color: #6cb930;
 }
+#navBar a {
+  color: black;
+}
+#navBar a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+.grey-section {
+  background-color: #f8f9fa;
+}
+
+.btn.priceRow:hover {
+  background-color: #77df28;
+}
+.btn.btn-light:hover {
+  color: white;
+  background-color: black;
+}
+.tableBG1 {
+  background-color: #f6fbff;
+}
+.tableBG2 {
+  background-color: #edf5ff;
+}
